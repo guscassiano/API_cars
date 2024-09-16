@@ -1,7 +1,9 @@
 # API Rest Cars
 
 Esta API tem como objetivo o cadastro de veículos e de marcas dos mesmos.
-Segue imagem para exemplo de um fusca cadastrado:
+Para isso utilizamos JWT para autenticação, flake8 para boas práticas organização e padrão de código, além de Django RQL para gerar qualquer filtro necessário. 
+
+Segue imagem para exemplo de carro cadastrado:
 
 ![image](https://github.com/user-attachments/assets/7c7f37ba-2fe6-42a6-874b-b007b6e5d641)
 
